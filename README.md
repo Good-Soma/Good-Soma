@@ -1,25 +1,19 @@
 ## Hi there 👋
-I am Goodluck Somadina Chukwuemeka; you can also call me “The Big Heart." I write technical content for firms, individuals, and businesses. That is huge, right? Yes, as it sounds, but hobby and passion don’t think that way. I love solving complex problems and making things as simple as possible as I could, because it doesn’t only help organizations and individuals like you that don’t have the chance or skills to process this crucial aspect of your business, but it also gives me the medium to exercise my mind, share my experience, and also grow myself into the person I want to be. 
- 
-Could you imagine a brand or product that doesn't have information to back up their claims for one minute? A product without information is always deficient in expression and scalability. 
- 
-So what I do for businesses and individuals that need my writing prompt is to divide their task for them; look at it this way: they construct the brand, I construct the words, they build the product, and I sell the products. 
- 
-Further, I won't only be educating your audience about your services and orientation, but I will ensure that they are persuaded and guided, and then I will perform the background work that may seem unimportant but that is your deepest desire, that is, performing the technical aspect of the content you need, which depends on your marketing channel. For example, if you want to write a web page, it is my duty to make it work. 
- 
-How will I do that? 
- 
-I will perform keyword research (oh, research! Sorry to say that, researching is one of the greatest weapon I utilise when bringing balance to the message I will be creating for you, gaining insight about what your competitors are doing, and considering your view point and that of your audience, thereby developing a communication node that joins your intent and the intent of your customers together.
- 
-I sparsely inject these keywords into the content. 
- 
-I then work on the metadata, including the title of your page.
- 
-What does that mean to you? Well, it means that I don’t randomly craft out content; I do my diligence; in fact, in all of my input, you are guaranteed a godly output because what I simply do is to genuinely follow the process that helps you to hit your target. 
- 
-Check out my contributions, blog post, and lastly, feel free to reach me via my social media handle or through my email. Thank you for taking your time to get to know me. 
- 
+You can obtain a clear, precise and well organized document for your project. 
 
+and also gain a stronger affinity with your audience because of the quality information you provide. 
+
+or probably you are very keen in assist your audience to resolve issues that enhances their experience.
+
+So what will then be their fate when you no longer have the chance to cover these crucial layers in your business or relationship? 
+
+It will be very devastating right? 
+
+I am Goodluck Somadina Chukwuemeka, I am an expert technical writer that assist firms, business and individuals to draft and modify content or documents  that suits their audience and still converge with their dream. 
+ 
+Crafting technical documents and developing web-pages my area of specialization.
+
+I can assist you to search out the issues your audience need to deal with. 
 <!--
 **Good-Soma/Good-Soma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
