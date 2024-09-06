@@ -13,7 +13,7 @@ I specialize in drafting:
 I acknowledge that, as a specialist, mitigating technical challenges and simultaneously enhancing the experience of your users can be overwhelming, yet communicating your value and projections effectively is important to you. 
 ### _That is why I am here!_
 
-You are highly welcome to evaluate my contributions and interactions, or better still, you can receive all the necessary details you need about me, including how I handle documents for serious project that demand good time management, attention, patient, and persuasion whenever you contact me.
+You are highly welcome to evaluate my contributions and interactions, or rather, contact me for all the important details you need, regarding how I handle documents for serious project with good time management, attention, patient, and persuasion.
 <!--
 **Good-Soma/Good-Soma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
