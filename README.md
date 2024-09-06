@@ -1,19 +1,19 @@
 ## Hi there 👋
-You can obtain a clear, precise and well organized document for your project. 
+# You can get a clear, precise and properly organized document for your any of your project. 
 
-and also gain a stronger affinity with your audience because of the quality information you provide. 
+I specialize in drafting: 
++ User manuals.
++ Technical specification.
++  API documents etc.
+  [!For]
+* Developers.
+* Scientific research.
+*  Business professionals etc. 
 
-or probably you are very keen in assist your audience to resolve issues that enhances their experience.
+I acknowledge that, as a specialist, mitigating technical challenges and simultaneously enhancing the experience of your users can be overwhelming, yet communicating your value and projections effectively is important to you. 
+### _That is why I am here!_
 
-So what will then be their fate when you no longer have the chance to cover these crucial layers in your business or relationship? 
-
-It will be very devastating right? 
-
-I am Goodluck Somadina Chukwuemeka, I am an expert technical writer that assist firms, business and individuals to draft and modify content or documents  that suits their audience and still converge with their dream. 
- 
-Crafting technical documents and developing web-pages my area of specialization.
-
-I can assist you to search out the issues your audience need to deal with. 
+You are highly welcome to evaluate my contributions and interactions, or better still, you can receive all the necessary details you need about me, including how I handle documents for serious project that demand good time management, attention, patient, and persuasion whenever you contact me.
 <!--
 **Good-Soma/Good-Soma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
