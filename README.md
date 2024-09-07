@@ -1,11 +1,13 @@
 ## Hi there 👋
-# You can get a clear, precise and properly organized document for your any of your project. 
+# You can get a clear, precise and properly organized document for any of your project. 
 
 I specialize in drafting: 
 + User manuals.
 + Technical specification.
 +  API documents etc.
+  
   [!For]
+  
 * Developers.
 * Scientific research.
 *  Business professionals etc. 
