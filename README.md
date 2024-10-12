@@ -15,8 +15,9 @@ As a technical writer, I understand that my role when working with a project is 
 
 ### How do I accomplish this enormous task:
 
-**Research:** When I receive plain instruction of what I should do, I specifically use the information provided to make an inquiry about other aspects of the idea that people will likely care to know about, and i will use tips i gather to construct an organized information that carter for your need and that of your audience.
-Collaboration: I also interact with the editorial or whomever I am accountable to during the project, to ascertain that standard, style, and clarity are in check, and valuation insight are transmitted from both ends.
+**Research:** When I receive plain instruction of what I should do, I specifically use the information provided to make an inquiry about other aspects of the idea that people will likely care to know about, and I will use tips I gather to construct an organized information that carter for your need and that of your audience.
+
+**Collaboration:** I also interact with the editorial team or whomever I am accountable to during the project, to ascertain that standard, style, and clarity are in check, and valuation insight are transmitted from both ends.
 
 
 **Edition:** Keeping my document straight forward is what editing performs for me, and it is an integral part of writing guarantees that errors are omitted  and satisfaction is obtained from the service I rendered, and that is essentially the reason I am very meticulous at this point.
