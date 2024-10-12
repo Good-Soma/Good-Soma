@@ -20,7 +20,7 @@ As a technical writer, I understand that my role when working with a project is 
 **Collaboration:** I also interact with the editorial team or whomever I am accountable to during the project, to ascertain that standard, style, and clarity are in check, and valuable insight are transmitted from both ends.
 
 
-**Edition:** Keeping my document straight forward is what editing performs for me, and it is an integral part of writing guarantees that errors are omitted  and satisfaction is obtained from the service I rendered, and that is essentially the reason I am very meticulous at this point.
+**Edition:** Keeping my document straight forward is what editing performs for me, and it is an integral part of my writing guarantees that errors are omitted  and satisfaction is obtained from the service I rendered, and that is essentially the reason I am very meticulous at this point.
 
 The aforementioned are a few techniques I apply when drafting an appealing content for developers and professionals like you.
 
