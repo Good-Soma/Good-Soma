@@ -11,7 +11,7 @@ I am a technical writer who composes:
 * Technical firms.
 * Business professionals etc.
 
-As a technical writer, I understand that my role when working with a project is to ensure that the channels through which concepts about intricate and complicated topics are simplified and arranged in the pattern that technical and non technical parts of your team will understand.
+As a technical writer, I understand that my role when working on a sensitive document is to ensure that the method through which intimidating concepts are conveyed is straightforward, and easy to dissect.
 
 ### How do I accomplish this enormous task:
 
