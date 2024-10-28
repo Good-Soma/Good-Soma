@@ -12,7 +12,8 @@
 
 
 **White Paper:** To specially emphasize on the features of your products and the solution you render. 
-User guides: to assist users on how to use your products so that they will get the underlying experience and benefits you have for them. 
+
+**User Guide:** To assist users on how to use your products so that they will get the underlying experience and benefits you have for them. 
 
 
 **Technical Blog:** To constantly research queries and publish SEO content that will educate your audience, while authenticating you as a reliable source of relevant information.
@@ -36,7 +37,7 @@ User guides: to assist users on how to use your products so that they will get t
 
 *I use these tools to learn SEO strategy, analyze content on websites, compare keywords, examine broken link, thereby drafting content that are searchable and important to your audience.*
 
-### Collaboration tools 
+### My Collaboration Tools Is:
 **GitHub:**
 I use GitHub to write documents, clone repositorys, resolve technical challenges in documents and, most importantly, collaborate with other like-minded individuals like you. 
 
@@ -50,15 +51,15 @@ I use GitHub to write documents, clone repositorys, resolve technical challenges
 ### What are the attributes that make me fit for the task of writing any demanding and yet critical document for experts like you?
 
 <ul>
-<li> Problem-Solving Skills: My duty is to make people understand what you want to communicate, so whenever I am given an assignment, it automatically becomes a task I must handle until exceptional result is obtained.</li>
+<li> Problem-Solving Skills: I am responsinlble for making your audience to understand your intention, so whenever I am given an assignment, that is what I prioritize on.</li>
 
   
 <li> Comprehensiveness: Since Technical writers are not omniscient, I understand you by asking significant questions, therefore working with me is strictly interactive.</li>
 
    
-<li>Editorial Skills: The editorial process is not an alien to me again. My methodology in writing is characterized with edition, proofreading, researching, designing, and reversal when necessary; therefore that is the writer you will be cooperating with just to accomplish your target.</li>
+<li>Editorial Skills: The editorial process is not strange to me again. My methodology in writing is characterized with edition, proofreading, researching, designing, and reversal when necessary; therefore that is the writer you will be cooperating with just to accomplish your target.</li>
 
 
-<li>**Time Management:** I work with time in accordance to any specification I receive from you, but I always thrive to accomplish my task before any expected deadline, and that has saved me from a lot of stress. All these benefits awaits you.</li>
+<li>Time Management: I work with time in accordance to any specification I receive from you, but I always thrive to accomplish my task before any expected deadline, and that has saved me from a lot of stress. All these benefits awaits you.</li>
 </ul>
  
