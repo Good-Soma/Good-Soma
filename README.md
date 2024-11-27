@@ -39,7 +39,7 @@
 
 ### My Collaboration Tools Is:
 **GitHub:**
-I use GitHub to write documents, clone repositorys, resolve technical challenges in documents and, most importantly, collaborate with other like-minded individuals like you. 
+I use GitHub to write documents, clone repositories, resolve mistakes in documents and most importantly, collaborate with other like-minded individuals like you. 
 
 ### What application do I use when drawing diagram for illustration? 
 
@@ -48,7 +48,7 @@ I use GitHub to write documents, clone repositorys, resolve technical challenges
 <li>Google Drawing</li>
 </ul>
 
-### What are the attributes that make me fit for the task of writing any demanding and yet critical document for experts like you?
+### What are the attributes that make me fit for the task of writing any demanding and yet critical document for expert like you?
 
 <ul>
 <li> Problem-Solving Skills: I am responsinlble for making your audience to understand your intention, so whenever I am given an assignment, that is what I prioritize on.</li>
