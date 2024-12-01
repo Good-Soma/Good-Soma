@@ -15,5 +15,11 @@
 
 ## Contact Me
 
-- :email: [Email me](mailto:your-email@example.com)
+- :email: [Email me](somadinag@aol.com)
 - :link: [LinkedIn](https://www.linkedin.com/in/your-profile)
+### Contact Me
+
+- [![LinkedIn](https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/your-profile)
+- [![WhatsApp](https://example.com/whatsapp-logo.png)](https://wa.me/your-phone-number)
+- [![Pinterest](https://example.com/pinterest-logo.png)](https://www.pinterest.com/your-profile)
+- [![Gmail](https://example.com/gmail-logo.png)](mailto:your-email@gmail.com)
