@@ -8,15 +8,15 @@
 **Technical Report:** For the description of process, progression, and result gotten when resolving technical challenges.
 
 
-**API:** To explain the interaction your application has with other web resources.
+**API:** To explain the configuration and interaction of your software application with other web resources.
 
 
-**White Paper:** To specially emphasize on the features of your products and the solution you render. 
+**White Paper:** To specially discuss challenges in your product, the solutions you have gathered, and possible method to mitigate others foreseeable issues that may arise. 
 
-**User Guide:** To assist users on how to use your products so that they will get the underlying experience and benefits you have for them. 
+**User Guide:** To assist with information on how to handle your product, so that they won't miss the experience and benefits you have reserved. 
 
 
-**Technical Blog:** To constantly research queries and publish SEO content that will educate your audience, while authenticating you as a reliable source of relevant information.
+**Technical Blog:** To constantly analyse queries and produce content that can be traced by computer algorithms, yet aligns with the intents of your audience.
 
 ### What are the authoring tools I use?
 <ul>
@@ -35,31 +35,44 @@
 <li>Hsupertools</li>
 </ul>
 
-*I use these tools to learn SEO strategy, analyze content on websites, compare keywords, examine broken link, thereby drafting content that are searchable and important to your audience.*
+*I use these tools to learn SEO strategies, analyze content on websites, compare keywords, examine broken link, discover popular trends, and then seize and work with opportunities that promotes your authority and credibility*
 
-### My Collaboration Tools Is:
+### My Collaborating Tools are:
 **GitHub:**
-I use GitHub to write documents, clone repositories, resolve mistakes in documents and most importantly, collaborate with other like-minded individuals like you. 
+I use GitHub to:
+<ul>
+<li>Write and format documents.</li> 
+<li>Make a meaningful contribution to and existing project.</li>
+<li></li>And to communicate and resolve issues amicably.</li>
+</ul>
 
-### What application do I use when drawing diagram for illustration? 
+###  What can I use when sketching a diagram to illustrate a concept? 
 
 <ul>
 <li>Lucid Chart</li>
 <li>Google Drawing</li>
 </ul>
 
-### What are the attributes that make me fit for the task of writing any demanding and yet critical document for expert like you?
+### What qualifies me to handle your documentation?
 
 <ul>
-<li> Problem-Solving Skills: I am responsinlble for making your audience to understand your intention, so whenever I am given an assignment, that is what I prioritize on.</li>
+<li> **An ability to solve Problem:Any assignments given to me is anticipated with the idea that i am providing an information, that will assist an end user to grab a concept, therefore I am solving problem.** .</li>
 
   
-<li> Comprehensiveness: Since Technical writers are not omniscient, I understand you by asking significant questions, therefore working with me is strictly interactive.</li>
+<li> Comprehensiveness: Sometimes, i don't know anything about the topic, i want to write about, nevertheless i catch up deadlines by quickly understanding the concept through research, and by asking question.</li>
 
    
-<li>Editorial Skills: The editorial process is not strange to me again. My methodology in writing is characterized with edition, proofreading, researching, designing, and reversal when necessary; therefore that is the writer you will be cooperating with just to accomplish your target.</li>
+<li>**Editing Skills:** My documentations are properly shaped with edition, after drafting a rough paper, I:  
+<ul>
+ <li>Proofread</li>
+ <li>research again if i notice that i added an idea that i am not sure about.</li>
+ <li>reverse to ensure that the aim of the content is intact.</li>
+ <li> Then i submit and await feedback, if accepted, i relax, but when any defect is drawn to my attention i am always ready to make an adjustment.
+</ul>>
+</li>
 
 
-<li>Time Management: I work with time in accordance to any specification I receive from you, but I always thrive to accomplish my task before any expected deadline, and that has saved me from a lot of stress. All these benefits awaits you.</li>
+<li>**Time Management:**
+i dont like being caught in frenzy, so when i receive an assignment, at the beginning i intensify my writing and then reduce my pace when getting to close to the deadline, infact i like concluding and submitting before the deadline and if the deadline iw not feasible to me i will let you know.</li>
 </ul>
  
