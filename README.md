@@ -15,8 +15,8 @@
 
 ## Contact Me
 
-- :email: [Email me](somadinag@aol.com)
-- :link: [LinkedIn](https://www.linkedin.com/in/your-profile)
+- :email: [Email me](mailto:somadinag@aol.com)
+- :link: [LinkedIn](https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ### Contact Me
 
 - [![LinkedIn](https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/your-profile)
