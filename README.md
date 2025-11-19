@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-#### Tag me "Your Writing Machine". I Deal 🤝 with Technical Schemes.
+#### Tag me "Your Writing Machine". I Deal 🤝 with wide range of Technicalities. 👋 Helping you to keep instructions simple and easy-to-follow.
 
 :rocket: **I'm a passionate Technical Writer** who specializes in creating clear and accessible documentation for professionals.
 
