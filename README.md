@@ -35,24 +35,21 @@ I design interfaces around business goals in connection to real user needs.
 
 ### 📝 Document
 
-I turn complex technical systems into documentation developers and users can actually follow.
+I turn the technical aspect of software development into documentation developers and users can understand and apply, they include:
 
 - API documentation
-- Developer documentation
 - Technical tutorials
 - Installation and setup guides
 - User guides and manuals
-- Architecture documentation
 - Troubleshooting guides
 - Technical research and reports
 
 ### ⚙️ Improve
 
-I help identify and improve weaknesses in existing digital products.
+I assist in identifying and understanding issues in digital products and enhance them via:
 
-- Website and application performance
-- Accessibility
-- SEO and technical discoverability
+- Web and App Accessibility
+- SEO: Search Engine Optimization 
 - Code quality and maintainability
 - Application usability
 - Technical documentation
@@ -60,16 +57,13 @@ I help identify and improve weaknesses in existing digital products.
 
 ### 🔐 Secure
 
-I perform **authorized security research and assessment** to help identify weaknesses before they become bigger problems.
+I perform **authorized security assessment** to help identify weaknesses and protect businesses information and operations, I offer: 
 
-- Vulnerability assessment
 - Authorized penetration testing
 - Web application security testing
 - Security audits
 - Security configuration reviews
-- Security research
-- Malware and application reverse engineering
-- Security-focused code review
+- Malware and application reverse    engineering
 
 ---
 
@@ -89,7 +83,7 @@ Depending on the project, I can contribute to one stage or work across multiple 
 
 ## 🛠️ Selected Work
 
-This profile contains practical projects, technical writing samples, development work, UI/UX case studies, security labs, research, and experiments demonstrating how I approach real technical problems.
+This area contains my.technical writing samples, development work, UI/UX case studies, and security labs, demonstrating how I approach, analyse and resolve real technical problems.
 
 ### 📝 Technical Writing
 
@@ -152,25 +146,10 @@ This profile contains practical projects, technical writing samples, development
 
 ---
 
-## 🧠 My Approach
-
-I don't believe in building software simply because something can be built.
-
-I start by understanding the:
-
-**Problem → Users → Requirements → Constraints → Desired Outcome**
-
-From there, I determine the appropriate:
-
-**Approach → Architecture → Technology → Implementation → Documentation → Testing → Improvement**
-
-The goal is not simply to demonstrate technical ability.
-
-The goal is to **solve the actual problem and create measurable value.**
 
 ---
 
-## 🤝 Available for
+## 🤝 I am Available for:
 
 - Freelance projects
 - Contract development
@@ -193,7 +172,7 @@ Have a product to build, an existing application to improve, a system that needs
 
 **Let's discuss what you're trying to achieve and determine how I can help.**
 
-📧 **Email:** `your-email@example.com`
+📧 **Email:** `somadina.dev@gmail.com`
 
 💼 **LinkedIn:** [Your LinkedIn Profile](#)
 
