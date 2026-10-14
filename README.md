@@ -1,10 +1,10 @@
-# Hi, meet me🙂 I'm Somadina 👋
+# Hi, Meet Me🙂 I'm Somadina 👋
 
 ### Technical Writer • Software Developer • UI/UX Designer • CyberSecurity 
 
 I help **businesses, startups, developers, and follower designers** to design, build, document, improve, and secure software products.
 
-My work combines **software development, technical communication, user experience, and application security** to turn technical requirements into concrete, maintainable, well-documented reliable digital products.
+My service merge **software development, technical communication, user experience design, and application security** to turn the technical requirements of applications into concrete, maintainable, well-documented, reliable digital products.
 
 ---
 
@@ -35,7 +35,7 @@ I design interfaces around business goals in connection to real user needs.
 
 ### 📝 Document
 
-I turn the technical aspect of software development into documentation developers and users can understand and apply, they include:
+I turn the technical aspect of software development into documents and contents, developers, non-technical decisions maker and users can understand and apply. I cover:
 
 - API documentation
 - Technical tutorials
@@ -46,7 +46,7 @@ I turn the technical aspect of software development into documentation developer
 
 ### ⚙️ Improve
 
-I assist in identifying and understanding issues in digital products and enhance them via:
+I assist in identifying and understanding technical challenges on digital products and improve on them through the provision of:
 
 - Web and App Accessibility
 - SEO: Search Engine Optimization 
@@ -57,10 +57,8 @@ I assist in identifying and understanding issues in digital products and enhance
 
 ### 🔐 Secure
 
-I perform **authorized security assessment** to help identify weaknesses and protect businesses information and operations, I offer: 
+I perform **authorized security assessment** to capture threats and weaknesses early enough, and further protect businesses information and operations, Through: 
 
-- Authorized penetration testing
-- Web application security testing
 - Security audits
 - Security configuration reviews
 - Malware and application reverse    engineering
@@ -68,22 +66,19 @@ I perform **authorized security assessment** to help identify weaknesses and pro
 ---
 
 ## How I Create Value
+My work aims at providing digital presence or products for professional or startup that is **. Intuitively usable, functional, understandable, maintainable, performant, and secure.**
 
-A digital product does not exist in isolation.
-
-It needs to be **usable, functional, understandable, maintainable, performant, and secure.**
-
-That's why my work connects:
+That's why I:
 
 **Design → Build → Document → Improve → Secure**
 
-Depending on the project, I can contribute to one stage or work across multiple stages of the product lifecycle.
+So depending on the project, I can contribute to one stage or work across multiple stages of the product lifecycle.
 
 ---
 
 ## 🛠️ Selected Work
 
-This area contains my.technical writing samples, development work, UI/UX case studies, and security labs, demonstrating how I approach, analyse and resolve real technical problems.
+This area contains my technical writing samples, development work, UI/UX case studies, and security labs, demonstrating how I approach, analyse and resolve real technical problems.
 
 ### 📝 Technical Writing
 
@@ -143,7 +138,6 @@ This area contains my.technical writing samples, development work, UI/UX case st
 ### Documentation
 
 `Markdown` `API Documentation` `Technical Tutorials` `Developer Documentation` `Technical Research`
-
 ---
 
 
@@ -162,7 +156,6 @@ This area contains my.technical writing samples, development work, UI/UX case st
 - Security assessments
 - Technical consulting
 - Application improvement and optimization
-- Collaboration with startups, businesses, developers, and technical teams
 
 ---
 
@@ -174,7 +167,7 @@ Have a product to build, an existing application to improve, a system that needs
 
 📧 **Email:** `somadina.dev@gmail.com`
 
-💼 **LinkedIn:** [Your LinkedIn Profile](#)
+💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 🌐 **Portfolio:** [Your Portfolio](#)
 
@@ -182,6 +175,4 @@ Have a product to build, an existing application to improve, a system that needs
 
 ### 📌 About This Portfolio
 
-This repository is continuously updated with new **projects, technical documentation, experiments, case studies, security research, and development work**.
-
-Each project is built to demonstrate practical problem-solving, technical understanding, clear communication, and the ability to deliver useful solutions.
+Each project on this portfolio is built to demonstrate practical problem-solving, technical understanding, clear communication, and the ability to deliver useful solutions you want to see on your application and that am always willing construct.
