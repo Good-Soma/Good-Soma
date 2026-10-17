@@ -2,9 +2,9 @@
 
 ### Technical Writer • Software Developer • UI/UX Designer • CyberSecurity 
 
-I help **businesses, startups, developers, and follower designers** to design, build, document, improve, and secure software products.
+I help **businesses, startups, developers, and follow designers** to craft, document, improve, and secure software products.
 
-My service merge **software development, technical communication, user experience design, and application security** to turn the technical requirements of applications into concrete, maintainable, well-documented, reliable digital products.
+My service connect **software development, technical communication, user experience design, and application security** together to produce the technical requirements of applications, making it concrete, maintainable, and robust.
 
 ---
 
